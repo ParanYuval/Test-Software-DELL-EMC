@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Yuvalp" name="com.codebind.AppTest" tests="1" failures="0" timestamp="2 Aug 2017 10:07:50 GMT" time="22.761" errors="0">
+  <testcase name="test" time="22.75" classname="com.codebind.AppTest"/>
+</testsuite>
